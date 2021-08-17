@@ -28,9 +28,10 @@ Reading name     | Reading page
 **Read10**       | [Read10](Read10.md)
 **Read11**       | [Read11](Read11.md)
 **Read12**       | [Read12](Read12.md)
-**Read13**       | 
-**Read14**       | 
-**Read15**       | 
+**Read15**       | [Read15](Read15.md)
+**Read16**       | [Read16](Read16.md)
+**Read17**       | [Read17](Read17.md)
+**Read18**       | [Read18](Read18.md)
 
 
 
