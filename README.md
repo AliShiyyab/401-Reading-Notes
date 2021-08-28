@@ -12,7 +12,7 @@
 
 * Course: Welcome in Reading-Notes-401 **Java** ASAC Course.
 
->## 301 Reading Notes
+>## 401 Reading Notes
 
 Reading name     | Reading page
 ---------------- | ----------------------
@@ -34,7 +34,11 @@ Reading name     | Reading page
 **Read18**       | [Read18](Read18.md)
 **Read20**       | [Read19](Read19.md)
 
+## 401 Part Tow
 
+Reading name     | Reading page
+---------------- | ----------------------
+**Read26**        | [Read26](Read26.md)
 
 
 ## 102 Reading Notes:
