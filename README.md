@@ -39,6 +39,7 @@ Reading name     | Reading page
 Reading name     | Reading page
 ---------------- | ----------------------
 **Read26**        | [Read26](Read26.md)
+**Read27**        | [Read27](Read27.md)
 
 
 ## 102 Reading Notes:
