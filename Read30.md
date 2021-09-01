@@ -1,4 +1,4 @@
-# HashMap
+# HashTable
 
 > *Have a many number of algorithem*
 
