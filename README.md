@@ -36,8 +36,8 @@ Reading name     | Reading page
 
 ## 401 Part Tow
 
-Reading name     | Reading page
----------------- | ----------------------
+Reading name      | Reading page
+----------------  | ----------------------
 **Read26**        | [Read26](Read26.md)
 **Read27**        | [Read27](Read27.md)
 **Read28**        | [Read28](Read28.md)
@@ -46,6 +46,7 @@ Reading name     | Reading page
 **Read31**        | [Read31](Read31.md)
 **Read32**        | [Read32](Read32.md)
 **Read33**        | [Read33](Read33.md)
+**Read34**        | [Read34](Read34.md)
 
 
 ## 102 Reading Notes:
